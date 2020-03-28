@@ -9,7 +9,7 @@ A multi-page React application, and used an API to fetch popular movies.
 
 In this app, I used the API to fetch popular movies in the US, display them on a page and then link to a movie detail page when you click on the movie.
 
-## What I learned 🧠
+## Met requierements and answered questions
 
 * How to use React router to create multi-page applications
 * How to use placeholders in urls to pick dynamic parts from urls
