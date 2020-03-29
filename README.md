@@ -1,9 +1,6 @@
 # Project Movies 
 
-See site here: https://mrsucodesproject12movieproject.netlify.com/
-
 A multi-page React application, and used an API to fetch popular movies.
-
 
 #### :clapper::clapper::clapper: Let's go! :clapper::clapper::clapper:
 
@@ -19,6 +16,6 @@ In this app, I used the API to fetch popular movies in the US, display them on a
 
 I registered an account with [themoviedb.org](https://www.themoviedb.org/) and then registered for an API key in order to use the API. 
 
+## View it live
 
-
-
+https://mrsucodesproject12movieproject.netlify.com/
