@@ -8,7 +8,7 @@ export const App = () => {
   return (
     <BrowserRouter>
       <Switch>
-        <Route path="/" exact>
+        <Route path="/" exact> 
           <MovieList />
         </Route>
         <Route path="/movies/:movieId">
