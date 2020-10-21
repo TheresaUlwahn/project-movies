@@ -1,6 +1,6 @@
 # Project Movies 
 
-A multi-page site built in React application that fethces the latest popular movies with an API on one page. With links sending you to a second page with details about the movie. 
+A multi-page site built in React application that fetches the latest popular movies with an API on one page. With links sending you to a second page with details about the movie. 
 
 #### :clapper::clapper::clapper::clapper::clapper::clapper:
 
