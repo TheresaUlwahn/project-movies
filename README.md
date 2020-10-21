@@ -8,6 +8,11 @@ A multi-page site built in React application that fethces the latest popular mov
 
 https://mrsucodesproject12movieproject.netlify.com/
 
+## Usage
+
+* Install required dependencies with npm: `npm install`
+* Start the project: `npm start`
+
 ## What I'm proud of
 
 * Multi-page React application with two pages - one showing a list of movies and one showing details, using React Router.
