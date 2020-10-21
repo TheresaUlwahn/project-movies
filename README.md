@@ -17,7 +17,7 @@ https://mrsucodesproject12movieproject.netlify.com/
 * The use of placeholders in urls to pick dynamic parts from urls
 * The use of APIs in React - combining `useState` with `useEffect`
 
-## Improvements
+## Next step
 
 * Develop more information about every single movie by fe. adding a link to the teaser
 * Adding more pages with music and tv-shows
