@@ -1,23 +1,24 @@
 # Project Movies 
 
-A multi-page React application, and used an API to fetch popular movies.
+A multi-page site built in React application that fethces the latest popular movies with an API on one page. With links sending you to a second page with details about the movie. 
 
-#### :clapper::clapper::clapper: Let's go! :clapper::clapper::clapper:
-
-In this app, I used the API to fetch popular movies in the US, display them on a page and then link to a movie detail page when you click on the movie.
+#### :clapper::clapper::clapper::clapper::clapper::clapper:
 
 ## View it live
 
 https://mrsucodesproject12movieproject.netlify.com/
 
-## Met requierements and answered questions
+## What I'm proud of
 
-* How to use React router to create multi-page applications
-* How to use placeholders in urls to pick dynamic parts from urls
-* Practice using APIs in React - combining `useState` with `useEffect`
+* Multi-page React application with two pages - one showing a list of movies and one showing details, using React Router.
+* Follow the design from given example
+* How to pass information such as product ids, or blog post titles in the url and pick this up in React router to load dynamic content.
+* Use React hooks, Router, Browserrouter and switch together with useState and useEffect.
+* The use of placeholders in urls to pick dynamic parts from urls
+* The use of APIs in React - combining `useState` with `useEffect`
 
-## Using the API ⚡️ 
+## Improvements
 
-I registered an account with [themoviedb.org](https://www.themoviedb.org/) and then registered for an API key in order to use the API. 
-
+* Develop more information about every single movie by fe. adding a link to the teaser
+* Adding more pages with music and tv-shows
 
