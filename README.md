@@ -13,14 +13,17 @@ https://mrsucodesproject12movieproject.netlify.com/
 * Install required dependencies with npm: `npm install`
 * Start the project: `npm start`
 
+## Techniques
+
+* Use React hooks, Router, Browserrouter and Switch.
+* The use of placeholders in urls to pick dynamic parts from urls
+* The use of APIs in React - combining `useState` with `useEffect`
+
 ## What I'm proud of
 
 * Multi-page React application with two pages - one showing a list of movies and one showing details, using React Router.
 * Follow the design from given example
 * How to pass information such as product ids, or blog post titles in the url and pick this up in React router to load dynamic content.
-* Use React hooks, Router, Browserrouter and Switch.
-* The use of placeholders in urls to pick dynamic parts from urls
-* The use of APIs in React - combining `useState` with `useEffect`
 
 ## Next step
 
